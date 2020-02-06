@@ -1,2 +1,2 @@
-# Imobiliaria em (C++)
+# Imobiliaria (C++)
 Projeto da disciplina de Laboratório de LInguagem de Programação I

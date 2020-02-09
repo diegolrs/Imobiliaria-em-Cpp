@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1581269187 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581268362 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\casa.h
+	"Endereco.h"
+	<string>
+
+1581215285 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581218744 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581268467 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1581268886 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581268978 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\apartamento.h
+	"Endereco.h"
+	<string>
+
+1581269174 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581268978 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\terreno.h
+	"Endereco.h"
+	<string.h>
+

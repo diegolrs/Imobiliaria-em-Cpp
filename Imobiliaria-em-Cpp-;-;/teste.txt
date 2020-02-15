@@ -1,0 +1,61 @@
+Casa
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+4
+5
+523.5m
+520m
+250000
+Casa
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+4
+5
+523.5m
+520m
+250000
+Casa
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+4
+5
+523.5m
+520m
+250000
+Apartamento
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+APNorte
+5
+400
+2
+84
+500000
+Terreno
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+TR100.5
+100000
+Terreno
+Rua dos bobos2
+Colinas do Sul2
+58049-3212
+Jhon Person2
+502
+TR100.52
+1000002

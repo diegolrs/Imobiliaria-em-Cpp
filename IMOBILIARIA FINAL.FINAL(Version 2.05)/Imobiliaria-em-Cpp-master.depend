@@ -1,0 +1,341 @@
+# depslib dependency file v1.0
+1581269187 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581268362 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\casa.h
+	"Endereco.h"
+	<string>
+
+1581215285 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581218744 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581268467 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1581268886 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581268978 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\apartamento.h
+	"Endereco.h"
+	<string>
+
+1581269174 source:c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581268978 c:\users\pedro\desktop\programas++\omaia\roteiro 3 - omaia\imobiliaria-em-cpp-master\include\terreno.h
+	"Endereco.h"
+	<string.h>
+
+1581358080 source:c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581358196 c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581354923 c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\include\casa.h
+	"Endereco.h"
+	<string>
+
+1581354792 c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\include\apartamento.h
+	"Endereco.h"
+	<string>
+
+1581354714 c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\include\terreno.h
+	"Endereco.h"
+	<string.h>
+
+1581354792 source:c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581357589 source:c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1581354593 source:c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581354802 source:c:\users\aluno\desktop\aaaa\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581431706 source:c:\users\aluno\desktop\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	"Endereco.h"
+	"Casa.h"
+	"include/Apartamento.h"
+	"include/Terreno.h"
+
+1581430152 c:\users\aluno\desktop\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581430558 c:\users\aluno\desktop\imobiliaria-em-cpp-master\include\casa.h
+	"Endereco.h"
+	<string>
+
+1581430570 c:\users\aluno\desktop\imobiliaria-em-cpp-master\include\apartamento.h
+	"Endereco.h"
+	<string>
+
+1581430607 c:\users\aluno\desktop\imobiliaria-em-cpp-master\include\terreno.h
+	"Endereco.h"
+	<string.h>
+
+1581430563 source:c:\users\aluno\desktop\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+	"Endereco.h"
+
+1581430785 source:c:\users\aluno\desktop\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+	"Endereco.h"
+	<iostream>
+	<string>
+
+1581430191 source:c:\users\aluno\desktop\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581430626 source:c:\users\aluno\desktop\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+	"Endereco.h"
+
+1581529831 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581528349 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1581430152 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581529847 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+
+1581528349 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\casa.h
+	"Imovel.h"
+	<string>
+
+1581437471 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581528147 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581530003 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\terreno.h
+	"Imovel.h"
+	<string.h>
+
+1581529935 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581519285 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\arquivos.cpp
+	"Arquivos.h"
+
+1581519285 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\arquivos.h
+	<iostream>
+	<fstream>
+	<vector>
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581528225 c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\include\imovel.h
+	"Endereco.h"
+
+1581528796 source:c:\users\pedro\desktop\imobiliária - c++\imobiliaria-em-cpp-110220\imobiliaria-em-cpp-master\src\imovel.cpp
+	"Imovel.h"
+
+1581604792 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581599751 c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581599740 c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\include\casa.h
+	"Imovel.h"
+	<string>
+
+1581512156 c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\include\imovel.h
+	"Endereco.h"
+
+1581512156 c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1581512156 c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\include\terreno.h
+	"Imovel.h"
+	<string.h>
+
+1581594845 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581594818 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+
+1581512156 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581512156 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\src\imovel.cpp
+	"Imovel.h"
+
+1581594861 source:c:\users\aluno\desktop\imobiliaria-em-cpp-110330\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581620191 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581599751 c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581599740 c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\include\casa.h
+	"Imovel.h"
+	<string>
+
+1581512156 c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\include\imovel.h
+	"Endereco.h"
+
+1581512156 c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1581512156 c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\include\terreno.h
+	"Imovel.h"
+	<string.h>
+
+1581594845 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581594818 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+
+1581512156 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581512156 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\src\imovel.cpp
+	"Imovel.h"
+
+1581594861 source:c:\users\aluno\desktop\2\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581815901 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	"SistemaImobiliaria.h"
+	"Interface.h"
+	"Imovel.h"
+	"Endereco.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1581886344 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\endereco.h
+	<string>
+
+1581887063 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\casa.h
+	"Imovel.h"
+	<string>
+
+1581741738 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\imovel.h
+	"Endereco.h"
+
+1581887576 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\apartamento.h
+	"Imovel.h"
+	<string>
+
+1581887778 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\terreno.h
+	"Imovel.h"
+	<string.h>
+
+1581887685 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\apartamento.cpp
+	"Apartamento.h"
+
+1581887171 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\casa.cpp
+	"Casa.h"
+
+1581886344 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1581741727 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\imovel.cpp
+	"Imovel.h"
+
+1581887816 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\terreno.cpp
+	"Terreno.h"
+
+1581888702 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\interface.cpp
+	"Interface.h"
+
+1581888702 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\interface.h
+	<iostream>
+	<windows.h>
+
+1581894991 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+
+1581890801 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\sistemaimobiliaria.h
+	"Interface.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<locale>
+	<sstream>
+
+1581722715 source:c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\src\gerentedepersistencia.cpp
+	"GerenteDePersistencia.h"
+
+1581722943 c:\users\pedro\desktop\imobiliária - c++\13022020(fix)\2\imobiliaria-em-cpp-master\include\gerentedepersistencia.h
+	<vector>
+	<fstream>
+

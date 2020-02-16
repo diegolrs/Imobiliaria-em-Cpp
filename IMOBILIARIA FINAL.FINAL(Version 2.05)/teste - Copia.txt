@@ -1,0 +1,62 @@
+Casa
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+4
+5
+523.5m
+520m
+250000
+Casa
+Gentulio Vargas
+Mangabeira
+1234-1234
+Tamba£
+5423
+4
+5
+126
+90
+120000
+Apartamento
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+APNorte
+5
+400
+2
+84
+500000
+Apartamento
+Perpertuo Socorro
+Tristana
+65674-34
+Valentina
+123
+Noroeste
+5
+500
+3
+345
+400000
+Terreno
+Rua dos bobos
+Colinas do Sul
+58049-321
+Jhon Person
+50
+TR100.5
+100000
+Terreno
+Francisca Mendes
+Canaranas
+1234421-34
+Maranh∆o
+554
+400
+2500
